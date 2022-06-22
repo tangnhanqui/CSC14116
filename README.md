@@ -24,11 +24,11 @@
     </tr>
     <tr>
       <td class="tg-0pky">Describe problem</td>
-      <td class="tg-kgv7">Describe data</span></td>
+      <td class="tg-kgv7"></span>Hoang Hung Manh</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Hoang Hung Manh</td>
-      <td class="tg-kgv7">Tang Nhan Qui</span></td>
+      <td class="tg-0pky">Describe data</td>
+      <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
 </tbody>
 </table>
