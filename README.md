@@ -13,7 +13,6 @@
       <th class="tg-0pky"></th>
       <th class="tg-rk9a">Main task</th>
       <th class="tg-rk9a">Sub-task</th>
-
       <th class="tg-rk9a">Assignee</th>
     </tr>
   </thead>
