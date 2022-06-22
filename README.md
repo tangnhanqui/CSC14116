@@ -13,6 +13,7 @@
       <th class="tg-0pky"></th>
       <th class="tg-rk9a">Main task</th>
       <th class="tg-rk9a">Sub-task</th>
+
       <th class="tg-rk9a">Assignee</th>
     </tr>
   </thead>
@@ -22,12 +23,12 @@
       <td class="tg-9wq8" rowspan="3">Describe problem</td>
     </tr>
     <tr>
-      <td class="tg-0pky"></td>
-      <td class="tg-kgv7"></span></td>
+      <td class="tg-0pky">Describe problem</td>
+      <td class="tg-kgv7">Describe data</span></td>
     </tr>
     <tr>
-      <td class="tg-0pky"></td>
-      <td class="tg-kgv7"></span></td>
+      <td class="tg-0pky">Hoang Hung Manh</td>
+      <td class="tg-kgv7">Tang Nhan Qui</span></td>
     </tr>
 </tbody>
 </table>
