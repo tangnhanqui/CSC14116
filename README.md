@@ -3,7 +3,8 @@
 | MSSV | Name |  GitHub account | 
 | -------- | -------- | -------- | 
 | 1753069   | Hoang Hung Manh | [HHManh](https://github.com/1753069) | 
-| 1753095   | Tang Nhan Qui     | https://github.com/tangnhanqui |
+| 1753095   | Tang Nhan Qui     | [TNQui](https://github.com/tangnhanqui) |
+[Link Colab Google](https://colab.research.google.com/drive/1chhvJBdn_R1Cw_W3wu8YKQcWJGeSc_Qu?hl=vi#scrollTo=RAIwHarqEqg_&uniqifier=3)
 
 ## Weekly plan
 
