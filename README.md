@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td class="tg-9hil" rowspan="3">Week 7</td>
-      <td class="tg-9wq8" rowspan="3">Describe solution by parallel programming</td>
+      <td class="tg-9wq8" rowspan="3">Describe solution </td>
     </tr>
     <tr>
       <td class="tg-0pky">Research solutions</td>
@@ -43,15 +43,15 @@
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
     <tr>
-      <td class="tg-9hil" rowspan="3">Week 8</td>
-      <td class="tg-9wq8" rowspan="3">Learn how to code python with parallel programming</td>
+      <td class="tg-9hil" rowspan="3">Week 8-9</td>
+      <td class="tg-9wq8" rowspan="3">Code python tuần tự</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Research how to code</td>
+      <td class="tg-0pky">Research to code</td>
       <td class="tg-kgv7"></span>Hoang Hung Manh</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Research how to code</td>
+      <td class="tg-0pky">Research to code</td>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
 </tbody>
