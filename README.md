@@ -47,11 +47,11 @@
       <td class="tg-9wq8" rowspan="3">Code python tuần tự</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Research to code</td>
+      <td class="tg-0pky">Prpre-processing data, Build Tree</td>
       <td class="tg-kgv7"></span>Hoang Hung Manh</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Research to code</td>
+      <td class="tg-0pky">Accuracy,Cross_validation</td>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
 </tbody>
