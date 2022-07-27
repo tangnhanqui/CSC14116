@@ -63,7 +63,7 @@
       <td class="tg-kgv7"></span>Hoang Hung Manh</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Chuyển đổi tuần tự sang numpy @jitn</td>
+      <td class="tg-0pky">Chuyển đổi tuần tự sang numpy @jit</td>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
 </tbody>
