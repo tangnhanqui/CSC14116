@@ -54,5 +54,17 @@
       <td class="tg-0pky">Accuracy,Cross_validation</td>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
+    <tr>
+      <td class="tg-9hil" rowspan="3">Week 10</td>
+      <td class="tg-9wq8" rowspan="3">Chuyển đổi tuần tự sang numpy @jit</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Chuyển đổi tuần tự sang numpy @jit</td>
+      <td class="tg-kgv7"></span>Hoang Hung Manh</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Chuyển đổi tuần tự sang numpy @jitn</td>
+      <td class="tg-kgv7"></span>Tang Nhan Qui</td>
+    </tr>
 </tbody>
 </table>
