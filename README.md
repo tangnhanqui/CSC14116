@@ -69,7 +69,6 @@
     <tr>
       <td class="tg-9hil" rowspan="3">Week 11</td>
       <td class="tg-9wq8" rowspan="3">Hoàn thành chạy tuần tự @jit</td>
-      <td class="tg-9wq8" rowspan="3">Phân tích, thiết kế cho song song</td>
     </tr>
     <tr>
       <td class="tg-0pky">Hoàn thành chạy tuần tự @jit</td>
