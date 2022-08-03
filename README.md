@@ -4,7 +4,7 @@
 | -------- | -------- | -------- | 
 | 1753069   | Hoang Hung Manh | [HHManh](https://github.com/hungmanhhoang963) | 
 | 1753095   | Tang Nhan Qui     | [TNQui](https://github.com/tangnhanqui) |
-[Link Colab Google](https://colab.research.google.com/drive/1Mna1NPhKmitxILXDVoJzIKXa5nDmuW0P?usp=sharing)
+[Link Colab Google](https://colab.research.google.com/drive/1QUJTIh7s93cFoKIy2CEPG2W7S7ckKRQc#scrollTo=b3ykin0rCFxO)
 
 ## Weekly plan
 
@@ -64,6 +64,19 @@
     </tr>
     <tr>
       <td class="tg-0pky">Chuyển đổi tuần tự sang numpy @jit</td>
+      <td class="tg-kgv7"></span>Tang Nhan Qui</td>
+    </tr>
+    <tr>
+      <td class="tg-9hil" rowspan="3">Week 11</td>
+      <td class="tg-9wq8" rowspan="3">Hoàn thành chạy tuần tự @jit</td>
+      <td class="tg-9wq8" rowspan="3">Phân tích, thiết kế cho song song</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Hoàn thành chạy tuần tự @jit</td>
+      <td class="tg-kgv7"></span>Hoang Hung Manh</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Phân tích, thiết kế cho song songtd>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
 </tbody>
