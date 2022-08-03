@@ -75,7 +75,7 @@
       <td class="tg-kgv7"></span>Hoang Hung Manh</td>
     </tr>
     <tr>
-      <td class="tg-0pky">Phân tích, thiết kế cho song songtd>
+      <td class="tg-0pky">Kiểm tra tính đúng đẵn, ý tưởng song song</td>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
 </tbody>
