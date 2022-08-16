@@ -4,7 +4,7 @@
 | -------- | -------- | -------- | 
 | 1753069   | Hoang Hung Manh | [HHManh](https://github.com/hungmanhhoang963) | 
 | 1753095   | Tang Nhan Qui     | [TNQui](https://github.com/tangnhanqui) |
-[Link Colab Google](https://colab.research.google.com/drive/1QUJTIh7s93cFoKIy2CEPG2W7S7ckKRQc#scrollTo=b3ykin0rCFxO)
+[Link Colab Google](https://colab.research.google.com/drive/1L1Ot_xYIrIHmQHy05E7wUta5Mr8-tTOV#scrollTo=b3ykin0rCFxO)
 
 ## Weekly plan
 
