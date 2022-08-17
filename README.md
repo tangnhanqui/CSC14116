@@ -78,5 +78,17 @@
       <td class="tg-0pky">Kiểm tra tính đúng đẵn, ý tưởng song song</td>
       <td class="tg-kgv7"></span>Tang Nhan Qui</td>
     </tr>
+    <tr>
+      <td class="tg-9hil" rowspan="3">Week 12-13</td>
+      <td class="tg-9wq8" rowspan="3">Cài đặt song song (Lỗi, không hoàn thành). Tổng kết báo cáo</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">HCài đặt song song (Lỗi)</td>
+      <td class="tg-kgv7"></span>Hoang Hung Manh</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Cài đặt song song (Lỗi)</td>
+      <td class="tg-kgv7"></span>Tang Nhan Qui</td>
+    </tr>
 </tbody>
 </table>
